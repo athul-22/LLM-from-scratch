@@ -1,0 +1,7 @@
+/__pycache__
+/gpt2
+/gpt_download.py
+/model.pth
+/model_and_optimizer.pth
+/new.txt
+/python_environment_check.py
